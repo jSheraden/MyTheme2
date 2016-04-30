@@ -10,7 +10,7 @@ html, body {
 }
 
 body {
-  background-color: #B8B8B8;
+  background-color: #D8D8D8;
 }
 
 .container-fluid {
@@ -26,10 +26,17 @@ body {
 
 .navbar {
   background-color: #404040;
+  margin-bottom: 0;
   height: 100px;
+  
   a {
     color: #FFFFFF !important;
   }
+}
+
+.site-footer .navbar {
+  border-radius: 0;
+  text-decoration: none;
 }
 
 .post {
