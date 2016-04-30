@@ -3,43 +3,35 @@ Theme Name: MyTheme2
 Author: Joseph Sheraden
 Version: 1.0
 */
-
 html, body {
   margin: 0;
-  body: 0;
-}
+  body: 0; }
 
 body {
-  background-color: #B8B8B8;
-}
+  background-color: #B8B8B8; }
 
 .container-fluid {
   position: relative;
-  padding: 0;
-}
+  padding: 0; }
 
 .container {
   position: relative;
   min-width: 80%;
-  margin: 0 auto;
-}
+  margin: 0 auto; }
 
 .navbar {
   background-color: #404040;
-  height: 100px;
-  a {
-    color: #FFFFFF !important;
-  }
-}
+  height: 100px; }
+  .navbar a {
+    color: #FFFFFF !important; }
 
 .post {
   background-color: #FFFFFF;
   margin: 20px 10px;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 2px 2px 5px #505050;
-  
-  h3 {
-    margin-top: 0;
-  }
-}
+  box-shadow: 2px 2px 5px #505050; }
+  .post h3 {
+    margin-top: 0; }
+
+/*# sourceMappingURL=style.css.map */
