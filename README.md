@@ -1,2 +1,2 @@
 # MyTheme2
-Rewriting my first Wordpress theme.
+Rewriting one of my earlier Wordpress themes.
